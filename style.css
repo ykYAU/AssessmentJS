@@ -1,0 +1,29 @@
+
+    
+
+body {
+    height:100vh;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(229, 176, 222);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.action-btn {
+    background-color: #fff;
+    border: 0;
+    color: gray ;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 0 20px;
+}
+.action-btn-big {
+    color:rgb(26, 23, 23);
+    font-size: 35px;
+}
+
+ 
